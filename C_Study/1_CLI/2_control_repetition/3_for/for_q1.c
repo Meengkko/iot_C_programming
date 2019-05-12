@@ -5,11 +5,11 @@ void main(){
 	int end_integer;
 	int totalSum=0;
 
-	printf("µÎ Á¤¼ö¸¦ ÀÔ·ÂÇÏ½Ê½Ã¿À.(¿¹:n1 n2)(Á¶°Ç:n1 > n2): ");
-    scanf("%d %d",&start_integer, &end_integer);
+	printf("ë‘ ì •ìˆ˜ë¥¼ ì…ë ¥í•˜ì‹­ì‹œì˜¤.(ì˜ˆ:n1 n2)(ì¡°ê±´:n1 > n2): ");
+        scanf("%d %d",&start_integer, &end_integer);
 
 	for(start_integer; start_integer <= end_integer; start_integer++){
 		totalSum = totalSum + start_integer;
 	}
-	printf("\nµÎ Á¤¼ö¸¦ Æ÷ÇÔÇÏ¿© »çÀÌ¿¡ ÀÖ´Â ¸ğµç °ªÀÇ ÃÑÇÕ : %d",totalSum);
+	printf("\në‘ ì •ìˆ˜ë¥¼ í¬í•¨í•˜ì—¬ ì‚¬ì´ì— ìˆëŠ” ëª¨ë“  ê°’ì˜ ì´í•© : %d",totalSum);
 }
