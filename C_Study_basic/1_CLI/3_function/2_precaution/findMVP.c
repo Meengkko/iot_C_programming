@@ -1,4 +1,5 @@
 #include <stdio.h>
+#pragma warning (disable:4996)
 
 int finalScore(void);
 int max_score(int num1,int num2,int num3,int num4,int num5);

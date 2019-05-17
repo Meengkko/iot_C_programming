@@ -1,4 +1,5 @@
 #include <stdio.h>
+#pragma warning (disable:4996)
 // 전체 기능: 두 수를 입력 받아서 절대 값이 큰 수를 판단해 주는 프로그램
 // 아래 두 줄은 Function Prototype(함수 원형)
 // 함수 원형을 작성하는 행위: 함수 선언(Function Declaration)
