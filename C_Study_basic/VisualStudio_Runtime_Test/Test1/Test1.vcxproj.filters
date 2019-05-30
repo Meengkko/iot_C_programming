@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\C_example\7_Library\7_3_example.c">
+    <ClCompile Include="..\..\3_internal_fuction\1_stream\6_424t.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
