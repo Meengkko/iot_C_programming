@@ -11,6 +11,8 @@ void main() {
 	int arrIndex;
 	int asciIndex;
 
+	system("chcp 949");
+
 	printf("문자열을 입력하세요(50자 이하) :");
 	scanf("%s", digitAndAlpha);
 
