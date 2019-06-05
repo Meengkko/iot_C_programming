@@ -7,7 +7,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test1", "Test1\Test1.vcxpro
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Struct", "Struct", "{EE97603C-CEE0-4650-B132-5FE7133ACC79}"
 	ProjectSection(SolutionItems) = preProject
-		..\4_struct\Struct_p3.c = ..\4_struct\Struct_p3.c
+		..\5_file\p1.c = ..\5_file\p1.c
+		..\5_file\p2.c = ..\5_file\p2.c
+		..\5_file\p3.c = ..\5_file\p3.c
+		..\5_file\p4.c = ..\5_file\p4.c
 	EndProjectSection
 EndProject
 Global
