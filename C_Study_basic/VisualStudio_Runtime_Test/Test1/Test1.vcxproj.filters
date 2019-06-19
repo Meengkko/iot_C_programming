@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Crossword.c">
+    <ClCompile Include="PascalTriangle_Exchange.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

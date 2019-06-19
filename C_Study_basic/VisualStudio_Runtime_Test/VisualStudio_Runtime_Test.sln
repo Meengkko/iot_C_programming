@@ -5,12 +5,13 @@ VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test1", "Test1\Test1.vcxproj", "{1CC84314-5DAA-48FD-A5D6-24529904BADD}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Struct", "Struct", "{EE97603C-CEE0-4650-B132-5FE7133ACC79}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "challenger4", "challenger4", "{EE97603C-CEE0-4650-B132-5FE7133ACC79}"
 	ProjectSection(SolutionItems) = preProject
-		..\5_file\p1.c = ..\5_file\p1.c
-		..\5_file\p2.c = ..\5_file\p2.c
-		..\5_file\p3.c = ..\5_file\p3.c
-		..\5_file\p4.c = ..\5_file\p4.c
+		..\3_internal_fuction\2_string\q1.c = ..\3_internal_fuction\2_string\q1.c
+		..\3_internal_fuction\2_string\q2.c = ..\3_internal_fuction\2_string\q2.c
+		..\3_internal_fuction\2_string\q3.c = ..\3_internal_fuction\2_string\q3.c
+		..\3_internal_fuction\2_string\q3n.c = ..\3_internal_fuction\2_string\q3n.c
+		..\4_user_defined_type\1_struct\Struct_p3.c = ..\4_user_defined_type\1_struct\Struct_p3.c
 	EndProjectSection
 EndProject
 Global
