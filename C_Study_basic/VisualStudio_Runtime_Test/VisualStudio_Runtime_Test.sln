@@ -11,6 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "challenger4", "challenger4"
 		..\3_internal_fuction\2_string\q2.c = ..\3_internal_fuction\2_string\q2.c
 		..\3_internal_fuction\2_string\q3.c = ..\3_internal_fuction\2_string\q3.c
 		..\3_internal_fuction\2_string\q3n.c = ..\3_internal_fuction\2_string\q3n.c
+		Test1\square_the_rectangle.c = Test1\square_the_rectangle.c
 		..\4_user_defined_type\1_struct\Struct_p3.c = ..\4_user_defined_type\1_struct\Struct_p3.c
 	EndProjectSection
 EndProject
